@@ -1,3 +1,6 @@
 [submodule "submodules/audio_classification"]
 	path = submodules/audio_classification
 	url = https://github.com/sm1899/audio_classification.git
+[submodule "submodules/song_analysis"]
+	path = submodules/song_analysis
+	url = https://github.com/sm1899/song_analysis.git
