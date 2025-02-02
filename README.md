@@ -10,13 +10,11 @@ This repository contains the code and reports for Speech Understanding Programmi
 ```
 m23mac008_Speech_Understanding_Programming_Assignment_1/
 │
-├── submodules/
-│   ├── audio_classification/   # Submodule for audio classification task
-│   └── song_analysis/          # Submodule for song analysis task
-│
-├── m23mac008_report.pdf        # Contains the report for this assignment
+├── audio_classification/       # Contains the audio_classification repo
+├── song_analysis/              # Contains the song_analysis repo
+├── m23mac008_report.pdf        # Report file
 ├── README.md                   # Project documentation
-└── .gitmodules                 # Tracks submodule URLs
+└── Other project files...
 ```
 
 ---
