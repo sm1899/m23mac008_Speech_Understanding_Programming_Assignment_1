@@ -33,7 +33,7 @@ m23mac008_Speech_Understanding_Programming_Assignment_1/
 1. **Clone the repository with submodules:**
 
 ```bash
-git clone --recurse-submodules https://github.com/your_username/m23mac008_Speech_Understanding_Programming_Assignment_1.git
+git clone --recurse-submodules https://github.com/sm1899/m23mac008_Speech_Understanding_Programming_Assignment_1.git
 ```
 
 2. **Navigate into the project:**
